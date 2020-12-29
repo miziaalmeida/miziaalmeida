@@ -15,7 +15,7 @@
 - 🤓 Estou também desenvolvendo alguns conhecimentos em outras linguagens como C, C#, Python, Javascript, também conheço um pouco de banco de dados com SQL utilizando o mySQL, bem como estou aprofundando estudos sobre Realm, SQLite, MongoDB entre outros.
 
 
-                                                        ```Spotify público e colaborativo :)```
+ ```Spotify público e colaborativo :)```
 </a>
 <a href="https://open.spotify.com/user/12184704325/playlist/6S9yGFjAA0UWyVmga80aO4?si=jTvWSWHYQ6-M0PpVMZjU9g">
   <img align="left" alt="Mízia Lima - Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
