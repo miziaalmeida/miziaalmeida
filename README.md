@@ -20,3 +20,22 @@
 <a href="https://open.spotify.com/user/12184704325/playlist/6S9yGFjAA0UWyVmga80aO4?si=jTvWSWHYQ6-M0PpVMZjU9g">
   <img align="left" alt="Mízia Lima - Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+
+### Linguagens: 
+
+<img src="https://camo.githubusercontent.com/d921e24275038cf3c8c0a2dfe5e154444df04065b3ad9ac96e4e2fb39dfc00e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3936346230393f266c6f676f3d7377696674"/></a>
+
+
+##### Tecnologias que utilizo:
+
+![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=miziaalmeida&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/miziaalmeida)
+
+</p>
+</p>  
+
