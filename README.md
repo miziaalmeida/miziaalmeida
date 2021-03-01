@@ -11,7 +11,7 @@
 
 - 💁‍♀️ Sou Mízia Lima, maranhense, entusiasta de tecnologia, desenvolvedora em construção e curiosa por natureza.
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, mas já estudo programação sozinha a 1 ano. Também tenho outra formação complementar em Administração de Empresas pela Universidade Estadual do Maranhão.
-- 📚 Tenho me dedicado a estudar o mundo iOS e aqui no github existem alguns repositórios de estudos sobre Swift, programação orientada a objetos, viewCode, cocoapods, integração contínua CI - Bitrise e Fastlane, desenvolvimento de telas (UI), MVVM, MVC, Clean Swift, versionamento de código - git, testes unitários, metodologia ágil de trabalho SCRUM, entre outras ferramentas e conhecimentos.
+- 📚 Tenho me dedicado a estudar o mundo iOS e aqui no github existem alguns repositórios de estudos sobre Swift, programação orientada a objetos, viewCode, cocoapods, integração contínua CI - Bitrise e Fastlane, desenvolvimento de telas (UI), MVVM, MVC, Clean Swift, versionamento de código - git, testes unitários, metodologia ágil de trabalho SCRUM, persistência de dados com CoreData, entre outras ferramentas e conhecimentos.
 - 🤓 Estou também aprendendo outras linguagens como C, C#, Python, Javascript, também conheço um pouco de banco de dados com SQL utilizando o mySQL, e também estou aprofundando estudos sobre Realm, SQLite, MongoDB entre outros.
 
 
